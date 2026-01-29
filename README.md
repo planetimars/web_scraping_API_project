@@ -26,19 +26,8 @@ Ky projekt implementon web scraping nga Telegrafi.com dhe API integration nga Op
 - **Output:** `combined_data.json`
 - **Funksioni:** Bashkon lajmet nga Telegrafi me të dhënat e motit nga API
 
-## Struktura e Plotë e Skedarëve
 
-web_scrap_api/
-├── scraping_telegrafi_fixed.py   # Web scraping nga Telegrafi.com
-├── api_open_meteo.py            # Marrja e të dhënave të motit
-├── combine_data.py              # Kombinimi i të dhënave
-├── telegrafi_lajmet.json        # Lajmet e skrapuara
-├── moti_tirane.json             # Të dhënat e motit
-├── combined_data.json           # Të dhënat e kombinuara
-├── requirements.txt             # Libraritë e nevojshme
-└── README.md                    # Ky dokument
-
-## Si të Ekzekutohet
+## Ekzekutimi
 1. Instalo libraritë: `pip install -r requirements.txt`
 2. Ekzekuto web scraping: `python scraping_telegrafi_fixed.py`
 3. Ekzekuto API integration: `python api_open_meteo.py`
