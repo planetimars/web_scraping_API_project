@@ -14,7 +14,7 @@ Ky projekt implementon web scraping nga Telegrafi.com dhe API integration nga Op
 ### Web Scraping nga Telegrafi.com
 - **Skedari:** `scraping_telegrafi_fixed.py`
 - **Output:** `telegrafi_lajmet.json`
-- **Vërejtje:** Telegrafi.com nuk shfaq datën e artikujve në faqen kryesore, prandaj fusha "data" mund të jetë bosh. Artikulli i parë është një kategori e veçantë e faqes.
+- **P.S:** Telegrafi.com nuk shfaq datën e artikujve në faqen kryesore, prandaj fusha "data" mund të jetë bosh. Artikulli i parë është një kategori e veçantë e faqes.
 
 ### API Integration me Open-Meteo
 - **Skedari:** `api_open_meteo.py`
