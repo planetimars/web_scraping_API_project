@@ -1,54 +1,76 @@
 {
-  "info_projekti": {
-    "emri": "Web Scraping dhe API Integration",
-    "data_krijimit": "2026-01-28 23:32:54",
-    "autori": "Student"
-  },
-  "te_dhenat_scraped": [
+  "lajmet": [
     {
-      "titulli": "Herman Melville - Moby-Dick",
-      "faqja": "https://httpbin.org/html",
-      "data_scraping": "2026-01-28 23:32:53",
-      "tipi": "test"
+      "titulli": "Liga e Kampionëve",
+      "data": "",
+      "linku": "https://telegrafi.com/custom-topic-label/",
+      "burimi": "Telegrafi.com"
+    },
+    {
+      "titulli": "Çiftet e play-offit, shorti dhe orari: Gjigantët si Real Madrid, PSG, Juventus dhe Inter do të luajnë nga dy ndeshje më shumë",
+      "data": "",
+      "linku": "https://telegrafi.com/ciftet-e-play-offit-shorti-dhe-orari-gjigantet-si-real-madrid-psg-juventus-dhe-inter-do-te-luajne-nga-dy-ndeshje-me-shume/",
+      "burimi": "Telegrafi.com"
+    },
+    {
+      "titulli": "Këto janë tetë skuadrat që siguruan kualifikimin direkt në fazën e 1/16 të Ligës së Kampionëve",
+      "data": "",
+      "linku": "https://telegrafi.com/keto-jane-tete-skuadrat-qe-siguruan-kualifikimin-direkt-ne-fazen-e-1-16-te-liges-se-kampioneve/",
+      "burimi": "Telegrafi.com"
+    },
+    {
+      "titulli": "LIVE/ Mbyllen të gjitha ndeshjet: Rezultatet dhe renditja, xhiro e fundi solli befasi",
+      "data": "",
+      "linku": "https://telegrafi.com/live-nata-e-fundit-e-fazes-se-liges-ne-ligen-e-kampione-18-ndeshje-luftohet-per-cdo-gje/",
+      "burimi": "Telegrafi.com"
+    },
+    {
+      "titulli": "“Nëna e të gjitha marrëveshjeve”: Cilat pritet të jenë efektet tregtare të paktit Indi–BE në një treg prej rreth 2 miliardë njerëzish",
+      "data": "",
+      "linku": "https://telegrafi.com/nena-e-te-gjitha-marreveshjeve-cilat-pritet-te-jene-efektet-tregtare-te-paktit-indi-be-ne-nje-treg-prej-rreth-2-miliarde-njerezish/",
+      "burimi": "Telegrafi.com"
+    },
+    {
+      "titulli": "Skandali që po trondit Malin e Zi - pamje me përmbajtje eksplicite, përfshihen ish-këshilltari i presidentit dhe sekretarja shtetërore",
+      "data": "",
+      "linku": "https://telegrafi.com/skandali-qe-po-trondit-malin-e-zi-pamje-me-permbajtje-eksplicite-perfshihen-ish-keshilltari-i-presidentit-dhe-sekretarja-shteterore/",
+      "burimi": "Telegrafi.com"
+    },
+    {
+      "titulli": "Detaje të reja të skandalit seksual që tronditi Malin e Zi - publikohen mesazhet në WhatsApp",
+      "data": "",
+      "linku": "https://telegrafi.com/detaje-te-reja-te-skandalit-seksual-qe-tronditi-malin-e-zi-publikohen-mesazhet-ne-whatsapp/",
+      "burimi": "Telegrafi.com"
+    },
+    {
+      "titulli": "Xabi Alonso ka marrëveshje me Liverpoolin, i kërkon katër lojtarë",
+      "data": "",
+      "linku": "https://telegrafi.com/xabi-alonso-ka-marreveshje-me-liverpoolin-i-kerkon-kater-lojtare/",
+      "burimi": "Telegrafi.com"
+    },
+    {
+      "titulli": "Trump paralajmëroi se 'një armadë masive është në rrugë' - Teherani përgjigjet me shkronja të mëdha në mediat sociale",
+      "data": "",
+      "linku": "https://telegrafi.com/trump-paralajmeroi-se-nje-armade-masive-eshte-ne-rruge-teherani-pergjigjet-me-shkronja-te-medha-ne-mediat-sociale/",
+      "burimi": "Telegrafi.com"
+    },
+    {
+      "titulli": "Netanyahu paralajmëron: S'ka shtet palestinez, s'ka ushtarë turq dhe s'ka rindërtim të Gazës pa demilitarizim",
+      "data": "",
+      "linku": "https://telegrafi.com/netanyahu-paralajmeron-s-ka-shtet-palestinez-s-ka-ushtare-turq-dhe-s-ka-rindertim-te-gazes-pa-demilitarizim/",
+      "burimi": "Telegrafi.com"
     }
   ],
-  "te_dhenat_api": {
-    "login": "octocat",
-    "id": 583231,
-    "node_id": "MDQ6VXNlcjU4MzIzMQ==",
-    "avatar_url": "https://avatars.githubusercontent.com/u/583231?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/octocat",
-    "html_url": "https://github.com/octocat",
-    "followers_url": "https://api.github.com/users/octocat/followers",
-    "following_url": "https://api.github.com/users/octocat/following{/other_user}",
-    "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
-    "organizations_url": "https://api.github.com/users/octocat/orgs",
-    "repos_url": "https://api.github.com/users/octocat/repos",
-    "events_url": "https://api.github.com/users/octocat/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/octocat/received_events",
-    "type": "User",
-    "user_view_type": "public",
-    "site_admin": false,
-    "name": "The Octocat",
-    "company": "@github",
-    "blog": "https://github.blog",
-    "location": "San Francisco",
-    "email": null,
-    "hireable": null,
-    "bio": null,
-    "twitter_username": null,
-    "public_repos": 8,
-    "public_gists": 8,
-    "followers": 21632,
-    "following": 9,
-    "created_at": "2011-01-25T18:44:36Z",
-    "updated_at": "2026-01-22T12:27:42Z"
+  "moti": {
+    "qyteti": "Tirane",
+    "temperatura": 10.0,
+    "lagështia": 82,
+    "kodi_motit": 1,
+    "pershkrimi": "kryesisht i kthjelle",
+    "era_shpejtesia": 8.3,
+    "data_marrjes": "2026-01-29 00:30:43",
+    "timestamp_api": "2026-01-29T00:30",
+    "burimi": "Open-Meteo"
   },
-  "shuma_e_te_dhenave": {
-    "numri_scraped": 1,
-    "numri_api_fields": 33
-  }
+  "info": "Kombinuar nga web scraping dhe API"
 }
